@@ -1,2 +1,3 @@
 Diagnose problems within WordPress by running a series of checks for symptoms
 # drop an unused branch
+# match the style used in the rest of the module
